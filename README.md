@@ -11,5 +11,6 @@ Welcome to my GitHub Page! I know this site is pretty useless as it only contain
 * If you want to visit my *Django Project* repository, click [here](https://github.com/naad1-max/django-project.git).
 * If you want to visit my *My Text Game* repository, click [here](https://github.com/naad1-max/mytextgame.git).
 * If you want to visit my *Flask Project* repository, click [here](https://github.com/naad1-max/flask-project.git).
+* If you want to visit my *Library* repository, click [here](https://github.com/naad1-max/library.git).
 
 ## Thank you!
